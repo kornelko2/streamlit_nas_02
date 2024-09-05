@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "streamlit_nas", "streamlit_nas\streamlit_nas.pyproj", "{BA1004D1-3953-4765-B50D-9AE6B15869D7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA1004D1-3953-4765-B50D-9AE6B15869D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA1004D1-3953-4765-B50D-9AE6B15869D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6EFB78AC-2BFB-4765-9AC8-B4BD6F560C0F}
+	EndGlobalSection
+EndGlobal
